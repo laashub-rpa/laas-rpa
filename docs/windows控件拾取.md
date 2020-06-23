@@ -7,3 +7,15 @@
 发现一个国内的一个类似的项目, 看是否有意义, 如果没有意义则去看看openrpa项目是怎么做的
 
 https://github.com/yinkaisheng/Python-UIAutomation-for-Windows
+
+
+
+
+
+思路
+
+python windows 句柄拾取
+
+https://github.com/yinkaisheng/Python-UIAutomation-for-Windows
+
+openrpa拾取的思路
