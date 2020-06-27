@@ -49,3 +49,18 @@ inspect.exe
 
 
 难道win环境下也能这么干?
+
+
+
+生成类xpath值 -> 使用类xpath值
+
+
+
+使用类xpath值:
+
+封装pywinauto实现使用xpath值找寻控件
+
+
+
+生成类xpath值:
+
