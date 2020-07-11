@@ -6,11 +6,17 @@ class、function:
 
 ​	box: input、output
 
+​	life-cycle: load、create、running、destroy
+
 
 
 step:
 
 ​	loop(loop_condition、loop_index、scope_data)
+
+​	break:
+
+​		break、continue
 
 
 
@@ -20,9 +26,7 @@ fork:
 
 
 
-break:
 
-​	break、continue
 
 
 
